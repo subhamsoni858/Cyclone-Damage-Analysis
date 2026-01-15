@@ -1,0 +1,11 @@
+# Ignore large data and junk
+*.tif
+*.tiff
+*.TIF
+region_folder/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignore the junk notebooks (add names of messy files here)
+# untitled*.ipynb
