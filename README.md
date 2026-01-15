@@ -26,7 +26,7 @@ We moved beyond standard metrics to achieve physically realistic damage maps:
 
 ## 🖼️ Visuals
 
-![Final Damage Map](final_damage_map.jpg)
+![Final Damage Map](final_damage_map_andaman.jpg)
 _Figure 1: Final classification map. Red zones indicate severe structural fragmentation (loss of percolation), while Yellow zones indicate thinned but connected canopy._
 
 ## 🛠️ Methodology
